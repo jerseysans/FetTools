@@ -1,0 +1,28 @@
+{
+  "name": "fettools",
+  "version": "1.0.0",
+  "description": "Tools for making fetlife.com better ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerseysans/FetTools.git"
+  },
+  "author": "jerseysans",
+  "license": "GPL-3.0-or-later ",
+  "bugs": {
+    "url": "https://github.com/jerseysans/FetTools/issues"
+  },
+  "homepage": "https://github.com/jerseysans/FetTools#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "jsdom": "^15.2.0",
+    "lodash.filter": "^4.6.0",
+    "lodash.flattendeep": "^4.4.0",
+    "lodash.map": "^4.6.0",
+    "lodash.uniq": "^4.5.0",
+    "puppeteer": "^2.0.0"
+  }
+}

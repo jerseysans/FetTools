@@ -35,9 +35,13 @@ build/Release
 # Dependency directories
 node_modules/
 jspm_packages/
+newMembers/
+ToCheckOut*.json
+previouslyFound.json
 
 # TypeScript v1 declaration files
 typings/
+
 
 # Optional npm cache directory
 .npm

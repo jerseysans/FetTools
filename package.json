@@ -18,7 +18,7 @@
   "homepage": "https://github.com/jerseysans/FetTools#readme",
   "dependencies": {
     "fs": "0.0.1-security",
-    "jsdom": "^15.2.0",
+    "jsdom": "^16.5.0",
     "lodash.filter": "^4.6.0",
     "lodash.flattendeep": "^4.4.0",
     "lodash.map": "^4.6.0",
